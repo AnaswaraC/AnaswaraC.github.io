@@ -496,7 +496,7 @@ span{
 
 } 
 .hireme{
-    display: flex;
+    display:block;
     justify-content: left;
     align-items: left;
     gap: 10rem;
